@@ -22,7 +22,6 @@ try {
         },
       );
 
-      require("./dependencias");
       const app = express();
       app.use(monitor());
       app.use(cors());
