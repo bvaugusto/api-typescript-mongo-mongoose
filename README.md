@@ -22,8 +22,5 @@ $ yarn start || npm start
 ```
 
 ----
-## Swagger
-
-### Api Gateway 
->http://localhost:8000/rarolabs/api-docs/
-
+## Swagger 
+>http://localhost:8000/docs/
